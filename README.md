@@ -1,5 +1,6 @@
 ### Hi there 👋
 Who am I!..
+ - Post Grad - University of Liverpool 2024-25
  - CSE undergrad - Amrita Vishwa Vidyapeetham, Coimbatore - 2023
  - Security enthusiast 
  - Research Interests - (DataScience/Environmental Science) 
